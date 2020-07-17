@@ -30,3 +30,16 @@ function print_table(number){
 }
 
 print_table(4)
+
+// 1
+// 4 6
+// 9 11 13
+// 17 19 21 23
+
+print_table(5)
+
+// 1
+// 4 6
+// 9 11 13
+// 17 19 21 23
+// 30 32 34 36 38
