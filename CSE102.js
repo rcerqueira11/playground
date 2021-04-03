@@ -7,7 +7,7 @@ function fibonacci(num, memo) {
 
     return memo[num] = fibonacci(num - 1, memo) + fibonacci(num - 2, memo);
 }
-
+//todo
 function print_table(number){
     var i = 0
     var fib_holder = 0
